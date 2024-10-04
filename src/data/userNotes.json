@@ -1,0 +1,22 @@
+{
+  "notes": [
+    {
+      "id": 1,
+      "title": "Title 1",
+      "creationDate": "2024-10-01",
+      "contents": "Sample Note example 1"
+    },
+    {
+      "id": 2,
+      "title": "Title 2",
+      "creationDate": "2024-10-01",
+      "contents": "Sample Note example 2"
+    },
+    {
+      "id": 3,
+      "title": "Title 3",
+      "creationDate": "2024-10-01",
+      "contents": "Sample Note example 3"
+    }
+  ]
+}
