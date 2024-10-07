@@ -18,8 +18,8 @@ export default function RootLayout({ children }) {
     <html lang="en">
       <body className={ubuntu_mono.className}>
         <div className="bg-neutral-800 p-2 w-full">
-          <Link href={"/"} className="text-2xl rounded-lg p-1 ">
-            Note Taking Pro App
+          <Link href={"/"} className="text-3xl rounded-lg p-1 ">
+            Note Taking App
           </Link>
         </div>
         {children}
